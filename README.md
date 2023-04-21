@@ -1,3 +1,4 @@
 # java
 inicio na linguagem java
-vamo avante em git e github
+vamos avante em git e github
+proximo passo, adicionar codigo.
